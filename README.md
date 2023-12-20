@@ -12,7 +12,7 @@
 ![npm](./public/npm.png)
 ![lib](./public/lib.png)
 
-## Major version vs Minor version
+## 2. Major version vs Minor version
 
 ![patch](./public/patch.png)
 

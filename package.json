@@ -12,7 +12,7 @@
     "url": "https://github.com/co-app/pracite-calculator"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=16"
   },
   "scripts": {
     "lint": "eslint 'src/**/*.ts'",
