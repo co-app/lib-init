@@ -1,0 +1,9 @@
+/.vscode
+**/node_modules/**
+**/lib/**
+tsconfig.json
+package-lock.json
+tsconfig.json
+tslint.json
+.gitignore
+README.md
