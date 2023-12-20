@@ -14,7 +14,11 @@
 
 ## Major version vs Minor version
 
+![patch](./public/patch.png)
+
 ```sh
+
+    pnpm run release OR pnpm run pre-release
 
     ## major version
     1.0.0

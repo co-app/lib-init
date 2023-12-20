@@ -7,10 +7,12 @@
   "files": [
     "lib/**/*"
   ],
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/co-app/pracite-calculator"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "scripts": {
     "lint": "eslint 'src/**/*.ts'",
