@@ -35,3 +35,12 @@
     1.0.2
     1.0.3
 ```
+
+## 3. 배포완료
+
+![deploy](./public/deploy.png)
+![deploy-2](./public/deploy-2.png)
+
+## Conclusion
+
+- <a href="https://www.npmjs.com/package/practice-calculator"> Practice Calculator Lib </a>
